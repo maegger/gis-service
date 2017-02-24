@@ -1,4 +1,3 @@
-AbsoluteLayout.jar
 ant-optional-1.5.1.jar
 avalon-framework-api-4.3.1.jar
 avalon-framework-impl-4.3.1.jar
