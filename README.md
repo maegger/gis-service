@@ -1,4 +1,4 @@
 # gis-service
 
-Source of .jar files: http://www.geotools.org/
+GIS-Dienste für Naturgefahren
 
